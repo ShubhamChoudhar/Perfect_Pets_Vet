@@ -1,0 +1,15 @@
+drop table appointment cascade constraints;
+drop table invoice cascade constraints;
+drop table pharmclinicstock cascade constraints;
+drop table itemclinicstock cascade constraints;
+drop table item cascade constraints;
+drop table pharmacy cascade constraints;
+drop table pettreatment cascade constraints;
+drop table petpen cascade constraints;
+drop table pen cascade constraints;
+drop table treatment cascade constraints;
+drop table examination cascade constraints;
+drop table pet cascade constraints;
+drop table petowner cascade constraints;
+drop table staff cascade constraints;
+drop table clinic cascade constraints;
